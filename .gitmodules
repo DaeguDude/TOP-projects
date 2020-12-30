@@ -1,3 +1,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/DaeguDude/rock-paper-scissors
+[submodule "todoList"]
+	path = todoList
+	url = https://github.com/DaeguDude/todoList
